@@ -1,0 +1,10 @@
+
+\.packages
+
+\.vscode/
+
+example/\.flutter-plugins
+
+example/android/local\.properties
+
+example/ios/Flutter/Generated\.xcconfig

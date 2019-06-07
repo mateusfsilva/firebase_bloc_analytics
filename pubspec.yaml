@@ -5,10 +5,10 @@ author: guitcastro <guilherme.torres.castro@gmail.com>
 homepage: https://github.com/guitcastro/flutter_bloc_analytics
 
 environment:
-  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  sdk: ">=2.2.0-dev.28 <3.0.0"
 
 dependencies:
-  bloc_analytics: ^0.2.1
+  bloc_analytics: ^0.2.0
   firebase_analytics: ^3.0.2
   flutter:
     sdk: flutter
@@ -17,5 +17,5 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   test_coverage: ^0.2.0
-  test_api: ^0.2.1
-  mockito: ^4.0.0
+  test_api: ^0.2.4
+  mockito: ^4.1.0
